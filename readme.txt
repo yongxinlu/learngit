@@ -17,5 +17,4 @@ bug branch.
 dev branch commit origin repository.
 hhaah
 我这家里的电脑上做了一次修改。
-改了又改了。
-我也不推送，看你怎么办。
+改完不推送。我也不推送，看你怎么办。
