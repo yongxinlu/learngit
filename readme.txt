@@ -18,3 +18,4 @@ dev branch commit origin repository.
 hhaah
 我这家里的电脑上做了一次修改。
 改完不推送。我也不推送，看你怎么办。
+修改远程服务器地址连接方式。
