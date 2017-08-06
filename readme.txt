@@ -15,3 +15,8 @@ dev branch change 3 time.
 dev branch change 4 time.
 bug branch.
 dev branch commit origin repository.
+hhaah
+我这家里的电脑上做了一次修改。
+改完不推送。我也不推送，看你怎么办。
+修改远程服务器地址连接方式。
+全局Git名称修改确认。
